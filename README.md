@@ -112,16 +112,16 @@ Before running this application, ensure you have the following installed:
 ## Screenshots
 
 ### Home Page / Demo Board
-![Home Page]("./Screenshots/Screenshot 2025-12-05 113035.png")
+![Home Page](./Screenshots/Screenshot%202025-12-05%20113035.png)
 
 ### Create New Board
-![Create Board]("./Screenshots/Screenshot 2025-12-05 113149.png")
+![Create Board](./Screenshots/Screenshot%202025-12-05%20113149.png)
 
 ### Drag & Drop Tasks
-![Drag & Drop]("./Screenshots/Screenshot 2025-12-05 113208.png")
+![Drag & Drop](./Screenshots/Screenshot%202025-12-05%20113208.png)
 
 ### Edit and Delete Tasks
-![Edit Delete]("./Screenshots/Screenshot 2025-12-05 113222.png")
+![Edit Delete](./Screenshots/Screenshot%202025-12-05%20113222.png)
 
 ## Contributing
 
