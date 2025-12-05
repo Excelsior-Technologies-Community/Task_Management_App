@@ -1,0 +1,11 @@
+const express = require('express')
+const cors = require('cors')
+const connect = require('./db')
+const routes = require('./routes')
+require('dotenv').config()
+const app = express()
+app.use(cors())
+app.use(express.json())
+app.use('/api', routes)
+const PORT = process.env.PORT || 4000
+connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/taskapp').then(() => app.listen(PORT))
